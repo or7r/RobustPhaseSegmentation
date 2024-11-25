@@ -1,0 +1,3 @@
+config_file: "model_additional_train_temp_0.5.yml"
+exp_name: "9 regions additional_train_temp_0.25"
+# this time, with temp 0.25

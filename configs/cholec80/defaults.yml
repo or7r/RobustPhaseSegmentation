@@ -1,0 +1,6 @@
+gt_path: "data/{}/groundTruth/"
+base_data_folder: "data/"
+seed: 12345
+project_name: "final-runs"
+features_path: features/cholec80/cholec80-cholec004/
+dataset: "cholec80"

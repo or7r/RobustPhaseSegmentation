@@ -1,0 +1,3 @@
+config_file: "model_v0.yml"
+exp_name: "4 regions v1"
+features_path: features/cholec80/cholec80-cholec004/

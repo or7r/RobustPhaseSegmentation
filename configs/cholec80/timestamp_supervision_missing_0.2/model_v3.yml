@@ -1,0 +1,4 @@
+config_file: "model_v2.yml"
+exp_name: "model missing 0.2 v3"
+focal_loss: true
+focal_gamma: 2

@@ -1,0 +1,10 @@
+config_file: "../sampled_supervision_basic_config.yml"
+exp_name: "9 regions v5"
+timestamp_path: sampled_supervision/labels/MultiBypass140_9regions.npy
+features_path: features/MultiBypass140/MultiBypass140-cholec004/
+ctc_varient: "stc"
+ctc_weight: 1
+loss_weights: "ipw"
+focal_loss: true
+focal_gamma: 2
+confidence_weight: 0.075

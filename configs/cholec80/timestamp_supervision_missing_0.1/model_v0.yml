@@ -1,0 +1,6 @@
+config_file: "../sampled_supervision_basic_config.yml"
+exp_name: "model missing 0.1 v0"
+features_path: features/cholec80/cholec80-imagenet001/
+timestamp_path: data/cholec80/groundTruth/cholec80_annotation_all_0.1_missing.npy
+confidence_weight: 0
+# casual_model: true

@@ -1,0 +1,4 @@
+config_file: "model_v4.yml"
+exp_name: "7 regions v5"
+ctc_varient: "stc"
+ctc_weight: 1

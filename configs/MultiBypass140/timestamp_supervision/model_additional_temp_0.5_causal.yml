@@ -1,0 +1,11 @@
+config_file: "model_v5.yml"
+exp_name: "model additional_train_temp_0.5"
+num_initial_epochs: 50
+# ctc_start_epoch: 30
+initial_labels_path: "results/MultiBypass140/model v5/split_1_certain/"
+loss_weights: None
+# focal_loss: False
+confidence_weight: 0
+entropy_weight: 0
+ctc_weight: 0
+casual_model: True

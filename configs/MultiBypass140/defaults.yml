@@ -1,0 +1,6 @@
+gt_path: "data/{}/groundTruth/"
+base_data_folder: "data/"
+seed: 12345
+project_name: "final-runs"
+features_path: features/MultiBypass140/MultiBypass140-cholec004/
+dataset: "MultiBypass140"

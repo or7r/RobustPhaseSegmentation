@@ -1,0 +1,8 @@
+config_file: "../defaults.yml"
+dataset: "cholec80"
+ctc_weight: 0
+exp_name: "Li_timestamp"
+timestamp_path: data/cholec80/groundTruth/cholec80_annotation_all.npy
+confidence_weight: 0.075
+entropy_weight: 0
+num_initial_epochs: 50

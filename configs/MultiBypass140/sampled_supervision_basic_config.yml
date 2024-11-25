@@ -1,0 +1,9 @@
+config_file: "defaults.yml"
+ctc_weight: 0
+entropy_weight: 0.1
+partial_pseudo_labels: True
+num_initial_epochs: 15
+update_every: 1
+uncertainty_method: "entropy"
+confidence_weight: 0
+# action: "predict"

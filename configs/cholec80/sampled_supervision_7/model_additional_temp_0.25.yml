@@ -1,0 +1,10 @@
+config_file: "model_v5.yml"
+exp_name: "7 regions additional_train_temp_0.25"
+num_initial_epochs: 50
+# ctc_start_epoch: 30
+initial_labels_path: "results/cholec80/7 regions v5/split_1_certain/"
+loss_weights: None
+# focal_loss: False
+confidence_weight: 0
+entropy_weight: 0
+ctc_weight: 0

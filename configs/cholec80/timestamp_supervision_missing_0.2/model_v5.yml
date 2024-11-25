@@ -1,0 +1,4 @@
+config_file: "model_v4.yml"
+exp_name: "model missing 0.2 v5"
+ctc_varient: "stc"
+ctc_weight: 1

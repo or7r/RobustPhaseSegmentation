@@ -1,0 +1,5 @@
+config_file: "../sampled_supervision_basic_config.yml"
+exp_name: "9 regions v0"
+features_path: features/MultiBypass140/MultiBypass140-imagenet001/
+timestamp_path: sampled_supervision/labels/MultiBypass140_9regions.npy
+confidence_weight: 0

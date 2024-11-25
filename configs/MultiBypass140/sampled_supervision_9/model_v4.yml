@@ -1,0 +1,3 @@
+config_file: "model_v3.yml"
+exp_name: "9 regions v4"
+loss_weights: "ipw"
